@@ -1,6 +1,6 @@
 # **AtliQ Hardware. Product Analysis**  
 
-## **Project Description:**  
+## **Research Objective:**  
 To identify bestsellers, identify factors influencing sales, and offer recommendations for increasing revenue. 
 
 ## **Key Research Questions:**  
