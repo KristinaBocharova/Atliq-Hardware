@@ -20,4 +20,4 @@ atliq_db.sqlite3
 ## **Tools Used:**  
 - SQL 
 - Python (pandas, numpy, scipy, seaborn, matplotlib, plotly)  
-- Exploratory Data Analysis (EDA)  
+- Tableau  
